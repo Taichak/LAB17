@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: นายไตรจักร ใจประการ
+# STUDENT ID:680610749
